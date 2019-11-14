@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.js": "/reutov-algoritmika/static/js/main.d2910cc1.chunk.js",
-    "main.js.map": "/reutov-algoritmika/static/js/main.d2910cc1.chunk.js.map",
+    "main.js": "/reutov-algoritmika/static/js/main.a38f314a.chunk.js",
+    "main.js.map": "/reutov-algoritmika/static/js/main.a38f314a.chunk.js.map",
     "runtime-main.js": "/reutov-algoritmika/static/js/runtime-main.2654ee52.js",
     "runtime-main.js.map": "/reutov-algoritmika/static/js/runtime-main.2654ee52.js.map",
-    "static/js/2.b17344d2.chunk.js": "/reutov-algoritmika/static/js/2.b17344d2.chunk.js",
-    "static/js/2.b17344d2.chunk.js.map": "/reutov-algoritmika/static/js/2.b17344d2.chunk.js.map",
+    "static/js/2.ab2ecad7.chunk.js": "/reutov-algoritmika/static/js/2.ab2ecad7.chunk.js",
+    "static/js/2.ab2ecad7.chunk.js.map": "/reutov-algoritmika/static/js/2.ab2ecad7.chunk.js.map",
     "index.html": "/reutov-algoritmika/index.html",
-    "precache-manifest.317a439ce1d77c41ee852604e7cce641.js": "/reutov-algoritmika/precache-manifest.317a439ce1d77c41ee852604e7cce641.js",
-    "service-worker.js": "/reutov-algoritmika/service-worker.js"
+    "precache-manifest.909f6f2b5aa34b1b3060f0cd2ef4b84b.js": "/reutov-algoritmika/precache-manifest.909f6f2b5aa34b1b3060f0cd2ef4b84b.js",
+    "service-worker.js": "/reutov-algoritmika/service-worker.js",
+    "static/media/logo.jpg": "/reutov-algoritmika/static/media/logo.9a6a93a9.jpg"
   }
 }
