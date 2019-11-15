@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "81bdcceb3dd51f213261edab4632bf16",
+    "revision": "c4a64e4742953200eab3a25ddab7ced2",
     "url": "/reutov-algoritmika/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reutov-algoritmika/static/js/2.2195bd54.chunk.js"
   },
   {
-    "revision": "4f45ec6c03c1501b09f4",
-    "url": "/reutov-algoritmika/static/js/main.68123950.chunk.js"
+    "revision": "dfe852e58522b613f9c4",
+    "url": "/reutov-algoritmika/static/js/main.bcd4b1e0.chunk.js"
   },
   {
     "revision": "85e43b11f3be4527e4ee",
