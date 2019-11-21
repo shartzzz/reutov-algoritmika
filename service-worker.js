@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/reutov-algoritmika/precache-manifest.6bf326b4599c48b27dd91b4e01d65362.js"
+  "/reutov-algoritmika/precache-manifest.9bbf6fe33df4a0e9de9e2e3fb461584d.js"
 );
 
 self.addEventListener('message', (event) => {
